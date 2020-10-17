@@ -7,6 +7,7 @@ public class Feature2 {
         System.out.println("Feature 2 second commit");
         System.out.println("Feature 2 second commit");
 
+        System.out.println("Adding new line 3");
 
     }
 }
